@@ -1,3 +1,18 @@
+This is a FullStack development project building an fully functional Amazon Clone ECommerce site using React/JS and CSS to design the Frontend and Firebase backend with Stripe payment gateway integration.
+
+What We Learn in this Project
+• How to create an SPA (Single Page Application) website that is Responsive & Mobile Friendly.
+• How to use React Router for Dynamic routing
+• How to set up Firebase.
+• How to deploy app with Firebase
+• How to Extract and display information from Firebase
+• How to use React Context API (Provides a data layer similar to Redux)
+• How to create User Authentication using Firebase
+• How to program Add to basket functionality
+• How to build Checkout page
+• How to build Login page with Firebase (oAuth) Authentication
+• How to set up a Payment Gateway using Cloud Functions to capture payment details via the STRIPE interface
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
