@@ -37,6 +37,8 @@ function App() {
 
   return (
     // BEM
+
+    
     <Router>
     <div className="app">
       <Switch>
@@ -56,6 +58,7 @@ function App() {
       
     </div>
     </Router>
+   
   );
 }
 

@@ -31,7 +31,7 @@ function Subtotal() {
           />   
           <button>Proceed to Checkout</button>
         </div>
-    )
+    );
 }
 
 export default Subtotal
